@@ -31,6 +31,7 @@ public class Encapsulation1 {
         obj.setA(44);
         obj.dummy1();
         System.out.println(obj.getA());
+        System.out.println("new line");
     }
 
 
